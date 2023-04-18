@@ -1,3 +1,3 @@
 # Jogo-em-Python
 
-Jogo de Forca e Adivinhação feito em Python3.
+<h3>Jogo de Forca e Adivinhação feito em Python3.</h3>
